@@ -1,0 +1,33 @@
+.top {
+    text-align: center;
+    font-size: 60px;
+    color: #6b6060;
+    font-family: "Verdana", sans-serif, "Times New Roman";
+}
+
+.image {
+    height: auto;
+    width: 600px;
+}
+
+.link {
+    font-size: 20px;
+    color: rgb(189, 31, 31)
+}  
+
+.paragraph{
+    font-size: 25px;
+    font-family: "Times New Roman", sans-serif;
+    color: rgb(221, 156, 70);
+}
+
+.lists {
+    font-size: 20px;
+    font-family: "Tahoma", "Times New Roman", sans-serif;
+    color: rgb(241, 128, 99);
+}
+
+.smallertop {
+    color: rgb(143, 113, 73);
+    font-size: 35px;
+}
